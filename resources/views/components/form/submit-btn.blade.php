@@ -1,0 +1,1 @@
+<button type="submit" class="border-1 border-black p-1 w-full bg-gradient-to-r from-[#0B74AD] to-[#11A3F2]  text-gray-100 rounded-md hover:cursor-pointer ">{{ $slot }}</button>
